@@ -1,6 +1,6 @@
-# 📈 Portfolio Report Building Automation
+#  Portfolio Report Building Automation
 
-## 📌 Overview
+##  Overview
 
 This project automates the generation of financial portfolio reports using Python, data analysis, interactive visualizations, and Generative AI.
 
@@ -8,7 +8,7 @@ The pipeline processes portfolio data, performs exploratory analysis, generates 
 
 ---
 
-# 🎯 Business Problem
+#  Business Problem
 
 Financial organizations require an automated reporting solution to analyze portfolio performance, identify sector trends, improve reporting efficiency, and support investment decision-making.
 
@@ -16,7 +16,7 @@ This project replaces manual reporting with an end-to-end analytics and report a
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Portfolio data preprocessing
 - Exploratory Data Analysis (EDA)
@@ -27,7 +27,7 @@ This project replaces manual reporting with an end-to-end analytics and report a
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python
 - Pandas
@@ -39,7 +39,7 @@ This project replaces manual reporting with an end-to-end analytics and report a
 
 ---
 
-# 🔄 Workflow
+#  Workflow
 
 ```
 Portfolio Dataset
@@ -65,7 +65,7 @@ PDF Report
 
 ---
 
-# 📁 Folder Structure
+#  Folder Structure
 
 ```
 02_Portfolio_Report_Automation/
@@ -80,7 +80,7 @@ PDF Report
 
 ---
 
-# ▶️ Installation
+#  Installation
 
 ```bash
 pip install -r requirements.txt
@@ -94,7 +94,7 @@ jupyter notebook Portfolio_report_building_automation.ipynb
 
 ---
 
-# 📊 Output
+#  Output
 
 The project generates:
 
@@ -105,7 +105,7 @@ The project generates:
 
 ---
 
-# 📈 Skills Demonstrated
+#  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
