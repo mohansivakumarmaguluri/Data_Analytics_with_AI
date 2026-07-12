@@ -75,6 +75,4 @@ Data_Analytics_With_AI/
 ├── 01_Flipkart_Web_Scraping/
 │
 ├── 02_Portfolio_Report_Automation/
-│
-└── More projects coming soon...
 ```
