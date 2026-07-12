@@ -128,10 +128,3 @@ containing product information collected from multiple Flipkart search result pa
 - Database integration
 - Automated scheduling
 
----
-
-# 👨‍💻 Author
-
-**Ganesh**
-
-Aspiring Data Analyst
