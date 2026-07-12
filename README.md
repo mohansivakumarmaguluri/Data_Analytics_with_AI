@@ -1,4 +1,4 @@
-# 📊 Data Analytics With AI
+#  Data Analytics With AI
 
 Welcome to my **Data Analytics with AI** portfolio!
 
@@ -8,13 +8,13 @@ This repository showcases real-world data analytics projects built using **Pytho
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 I'm an aspiring **Data Analyst** passionate about solving business problems using Python, automation, and AI-assisted workflows.
 
 ---
 
-# 🛠 Skills
+#  Skills
 
 - Python
 - Pandas
@@ -33,9 +33,9 @@ I'm an aspiring **Data Analyst** passionate about solving business problems usin
 
 ---
 
-# 📂 Projects
+#  Projects
 
-## 📱 01. Flipkart Web Scraping Pipeline
+##  01. Flipkart Web Scraping Pipeline
 
 **Technologies:** Python, Requests, BeautifulSoup, Pandas
 
@@ -46,11 +46,11 @@ I'm an aspiring **Data Analyst** passionate about solving business problems usin
 - Automated multi-page data collection
 - Exported cleaned data to CSV
 
-📁 Folder: `01_Flipkart_Web_Scraping`
+ Folder: `01_Flipkart_Web_Scraping`
 
 ---
 
-## 📈 02. Portfolio Report Building Automation
+##  02. Portfolio Report Building Automation
 
 **Technologies:** Python, Pandas, Plotly, Generative AI
 
@@ -61,11 +61,11 @@ I'm an aspiring **Data Analyst** passionate about solving business problems usin
 - Generated AI-powered investment summaries
 - Automated HTML & PDF report generation
 
-📁 Folder: `02_Portfolio_Report_Automation`
+ Folder: `02_Portfolio_Report_Automation`
 
 ---
 
-# 📚 Repository Structure
+#  Repository Structure
 
 ```
 Data_Analytics_With_AI/
