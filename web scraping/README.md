@@ -1,6 +1,6 @@
-# 📱 Flipkart 5G Mobile Web Scraping Pipeline
+#  Flipkart 5G Mobile Web Scraping Pipeline
 
-## 📌 Overview
+##  Overview
 
 This project automates the extraction of **5G mobile phone listings under ₹50,000** from Flipkart using Python.
 
@@ -8,13 +8,13 @@ The scraper collects product information across multiple pages and exports the c
 
 ---
 
-# 🎯 Business Problem
+#  Business Problem
 
 An e-commerce analytics company wants to monitor competitor pricing, product specifications, and customer reviews to better understand market trends and improve business decisions.
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Multi-page web scraping
 - Automated HTTP requests
@@ -25,7 +25,7 @@ An e-commerce analytics company wants to monitor competitor pricing, product spe
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python
 - Requests
@@ -35,7 +35,7 @@ An e-commerce analytics company wants to monitor competitor pricing, product spe
 
 ---
 
-# 📊 Extracted Data
+#  Extracted Data
 
 - Product Name
 - Price
@@ -44,7 +44,7 @@ An e-commerce analytics company wants to monitor competitor pricing, product spe
 
 ---
 
-# 🔄 Workflow
+#  Workflow
 
 ```
 Flipkart Website
@@ -67,7 +67,7 @@ CSV Export
 
 ---
 
-# 📁 Folder Structure
+#  Folder Structure
 
 ```
 01_Flipkart_Web_Scraping/
@@ -82,7 +82,7 @@ CSV Export
 
 ---
 
-# ▶️ Installation
+#  Installation
 
 ```bash
 pip install -r requirements.txt
@@ -96,7 +96,7 @@ python flipkart_scraper.py
 
 ---
 
-# 📂 Output
+#  Output
 
 The scraper generates:
 
@@ -108,7 +108,7 @@ containing product information collected from multiple Flipkart search result pa
 
 ---
 
-# 📈 Skills Demonstrated
+#  Skills Demonstrated
 
 - Web Scraping
 - Data Collection
@@ -120,7 +120,7 @@ containing product information collected from multiple Flipkart search result pa
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - Retry mechanism
 - Exception handling
